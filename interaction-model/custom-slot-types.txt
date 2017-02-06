@@ -1,0 +1,75 @@
+LIST_OF_NAV_ACTIONS
+
+Up
+Down
+Left
+Right
+Back
+Select
+Stop
+Play
+Pause
+Next
+Previous
+Forward
+Rewind
+Subtitles
+Context menu
+Show subtitles
+Page down
+Page up
+Volume up
+Volume down
+Mute
+Queue
+Step back
+Step forward
+Toggle watched
+Info
+Display
+Back and exit
+Select and exit
+Stop and exit
+Play and exit
+Pause and exit
+Next and exit
+Previous and exit
+Info and exit
+Display and exit
+Nothing
+None
+I'm done
+That's it
+
+
+LIST_OF_TASKS
+
+Good Night
+Leaving Home
+Coming Home
+Good Morning
+Watch Something
+Lights Off
+Lights On
+Lights Bright
+Lights Reading
+Lights Movie
+Lights Relax
+Lights Bedtime
+TV On
+TV Off
+Watch a movie
+Watch a tv show
+Listen to music
+What's playing
+What is playing
+What is playing right now
+What's the current song
+What is the current song
+What that song is
+What song that is
+What song is playing
+Play Playstation
+Start the playstation
+Start playstation
+Playstation on

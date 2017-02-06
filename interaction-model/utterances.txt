@@ -1,0 +1,31 @@
+TaskerAutomate automate {Task}
+TaskerAutomate send command {Task}
+TaskerAutomate execute {Task}
+TaskerAutomate task {Task}
+TaskerAutomate run {Task}
+TaskerAutomate do {Task}
+TaskerAutomate run the {Task}
+TaskerAutomate let's {Task}
+TaskerAutomate turn {Task}
+TaskerAutomate turn the {Task}
+TaskerAutomate switch {Task}
+TaskerAutomate switch the {Task}
+TaskerAutomate {Task}
+
+TaskerVolume volume {Volume}
+TaskerVolume turn the volume to {Volume}
+TaskerVolume set the volume to {Volume}
+TaskerVolume put the volume to {Volume}
+TaskerVolume turn it up to {Volume}
+TaskerVolume turn it down to {Volume}
+TaskerVolume turn it to {Volume}
+
+TaskerNavigate Navigate {NavAction}
+TaskerNavigate Go {NavAction}
+TaskerNavigate {NavAction}
+TaskerNavigate Choose {NavAction}
+
+TaskerAlarmSet wake me up at {AlarmTime}
+TaskerAlarmSet set an alarm for {AlarmTime}
+TaskerAlarmSet set the alarm at {AlarmTime}
+TaskerAlarmSet alarm me at {AlarmTime}

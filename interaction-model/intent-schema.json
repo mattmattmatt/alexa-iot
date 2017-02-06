@@ -1,0 +1,40 @@
+{
+  "intents": [
+    {
+      "intent": "TaskerAutomate",
+      "slots": [
+        {
+          "name": "Task",
+          "type": "LIST_OF_TASKS"
+      	}
+      ]
+    },
+    {
+      "intent": "TaskerVolume",
+      "slots": [
+        {
+          "name": "Volume",
+          "type": "AMAZON.NUMBER"
+      	}
+      ]
+    },
+    {
+      "intent": "TaskerNavigate",
+      "slots": [
+        {
+          "name": "NavAction",
+          "type": "LIST_OF_NAV_ACTIONS"
+      	}
+      ]
+    },
+    {
+      "intent": "TaskerAlarmSet",
+      "slots": [
+        {
+          "name": "AlarmTime",
+          "type": "AMAZON.TIME"
+      	}
+      ]
+    }
+  ]
+}

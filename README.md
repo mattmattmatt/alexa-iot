@@ -35,3 +35,9 @@ Run `npm install` to install all dependencies locally. Modify `Makefile` to poin
 
 ### Local testing
 For local development, you can run `node index2.js` to see if your host configuration works.
+
+## Interaction model
+
+The interaction model (`/interaction-model`) is not part of the Lambda function but instead saved as part of the skill configuration at [https://developer.amazon.com/](https://developer.amazon.com/). Intent names and tasks have in the interaction model and in `index.js` have to match.
+
+Learn more about [how to write your own custom Alexa skill](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/getting-started-guide) in this guide.
