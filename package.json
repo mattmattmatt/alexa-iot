@@ -1,0 +1,15 @@
+{
+  "name": "alexa-iot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^2.0.1",
+    "promise": "^7.1.1"
+  }
+}
